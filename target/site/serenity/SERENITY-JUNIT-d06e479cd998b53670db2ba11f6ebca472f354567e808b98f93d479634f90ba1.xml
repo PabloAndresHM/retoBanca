@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Create a user in Utest.com" skipped="0" tests="1" time="0.32" timestamp="2020-12-30 04:09:16"><testcase name="Create a new profile complying all the requirements"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.choucair.certification.retoBanca.stepdefinitions.RetoBancaStepsDefinition.thatUserWantsToCreateANewProfile(RetoBancaStepsDefinition.java:26)&#13;
+✽.that user wants create a new profile on Utest(src/test/resources/features/reto_banca.feature:9)&#13;
+</system-err></testcase></testsuite>
